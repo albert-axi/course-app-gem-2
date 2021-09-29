@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary       = "Hello World"
   spec.description   = "Sample Gem App"
   spec.homepage      = "https://github.com/albert-axi/course-app-gem-ft2"
-  spec.required_ruby_version = Gem::Requirement.new(">= 2.4.0")
+  spec.required_ruby_version = Gem::Requirement.new(">= 2.6.1")
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
